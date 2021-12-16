@@ -28,4 +28,9 @@
         <item name="android:textColor">@color/black_color</item>
         <item name="android:textSize">@dimen/text_size_9sp</item>
     </style>
+    <style name="Rescued">
+        <item name="android:text">@string/rescued</item>
+        <item name="android:textColor">@color/light_gray</item>
+        <item name="android:textSize">@dimen/text_size_10sp</item>
+    </style>
 </resources>

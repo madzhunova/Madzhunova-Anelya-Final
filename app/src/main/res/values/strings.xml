@@ -10,4 +10,8 @@
     <string name="carbohydrates">Carbohydrates</string>
     <string name="sodium">Sodium</string>
     <string name="potassium">Potassium</string>
+    <string name="rescued">Rescued</string>
+    <string name="_30_min">30 min</string>
+    <string name="vegan">Vegan</string>
+    <string name="ingredients">Ingredients</string>
 </resources>
