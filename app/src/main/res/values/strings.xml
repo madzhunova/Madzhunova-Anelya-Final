@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Madzhunova-Anelya-Final</string>
+    <string name="fried_rise">Fried Rise</string>
+    <string name="fried_rice">Fried Rice</string>
+    <string name="pista_house_kukatpally">Pista House, Kukatpally</string>
+    <string name="description">Description</string>
+    <string name="text_under_description">Our fried rice is made from the finest ingredients and veggies. single dish is made with fresh vegetables, rescued.</string>
+    <string name="nutritional_value">Nutritional Value</string>
+    <string name="protein">Protein</string>
+    <string name="carbohydrates">Carbohydrates</string>
+    <string name="sodium">Sodium</string>
+    <string name="potassium">Potassium</string>
+</resources>
