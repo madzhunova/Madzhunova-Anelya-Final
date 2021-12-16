@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    app:layoutDescription="@xml/product_scene"
+    app:layoutDescription="@xml/product_scene2"
     tools:context=".MainActivity">
 
 
@@ -16,6 +16,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/istockphoto_672810138_612x612" />
+
 
     <ImageView
         android:id="@+id/imageView2"
@@ -238,6 +239,6 @@
             android:layout_marginStart="10dp"
             app:srcCompat="@drawable/agriculture_1851424_1920_1" />
 
-
     </LinearLayout>
+
 </androidx.constraintlayout.motion.widget.MotionLayout>
